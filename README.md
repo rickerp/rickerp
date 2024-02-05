@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rickerp
-- 👀 I’m interested in Python, Synthesizers, Machine Learning and Backend technologies.
-- 🌱 I’m currently learning LaTeX and Sythesizers by examples.
-- 📫 How to reach me pdgrickerp@gmail.com
-- 🎓 Currently working on my MSc. thesis for Instituto Superior Técnico, Universidade de Lisboa in parternship with OutSystems and INESC-ID Lisboa.
+- 👋 Hi, I’m Ricardo Fernandes or @rickerp, as you prefer to call me.
+- 👀 I’m interested in Python, Machine Learning, and Backend technologies.
+- 🌱 I’m currently refining my hard skills.
+- 📫 How to reach me - pdgrickerp@gmail.com
+- 🎓 Just finished my MSc. Computer Science and Engineering at Instituto Superior Técnico (Universidade de Lisboa) with Keio University. The MSc. thesis was in partnership with OutSystems and INESC-ID Lisboa.
 - ⚙️ Slowly updating my GitHub with personal projects done in the last years.
 
 <!---
